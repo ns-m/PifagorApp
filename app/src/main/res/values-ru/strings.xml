@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Формула Пифагора</string>
+    <string name="title">Счетаем Катет</string>
+    <string name="text_result">Результат:&#160;</string>
+    <string name="input_a">Введите значение A</string>
+    <string name="input_b">Введите значение B</string>
+    <string name="button_result">Получить результат</string>
+</resources>

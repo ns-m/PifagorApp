@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">PifagorApp</string>
     <string name="title">Calculate "C"</string>
+    <string name="text_result">Result:&#160;</string>
+    <string name="input_a">Input value \"A\"</string>
+    <string name="input_b">Input value \"B\"</string>
+    <string name="button_result">Get Result</string>
 </resources>
