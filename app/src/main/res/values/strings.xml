@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PifagorApp</string>
+    <string name="title">Calculate "C"</string>
 </resources>
